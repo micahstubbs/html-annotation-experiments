@@ -1,0 +1,186 @@
+[
+  {
+    "html": "<div class=\"skewed-x-20\" style=\"width: 70px; height: 440px; border: 1px solid rgba(0,0,0,0.1); box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.1);\">\n\n<div>",
+    "x": 393,
+    "y": 261,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"stroked-text\">\n<h4 class=\"minor-header\">Appalachia stays cool</h4>\n<p class=\"size-12\">\nThe elevation of the Appalachian mountains keeps the heat down. Highs were in the mid-70's in the elevated parts of the region.\n</p>\n</div>",
+    "x": 429,
+    "y": 612,
+    "editable": false,
+    "width": 155
+  },
+  {
+    "html": "<div class=\"size-16 faded-9 stroked-text\">Louisville</div>",
+    "x": 187,
+    "y": 516,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-14 faded-8 stroked-text\">Indianapolis</div>",
+    "x": 162,
+    "y": 456,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-12 faded-6 stroked-text\">Detroit</div>",
+    "x": 240,
+    "y": 304,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-12 faded-8 stroked-text\">Chicago</div>",
+    "x": 99,
+    "y": 433
+  },
+  {
+    "html": "<div class=\"size-12 faded-6 stroked-text\">Milwaukee</div>",
+    "x": 28,
+    "y": 395,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-18 stroked-text\">Charlotte</div>",
+    "x": 521,
+    "y": 535,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-18 stroked-text\">Jacksonville</div>",
+    "x": 548,
+    "y": 928,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-14 faded-8 stroked-text\">Columbus</div>",
+    "x": 310,
+    "y": 372,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-16 faded-9 stroked-text\">Washington</div>",
+    "x": 610,
+    "y": 308,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-14 faded-8 stroked-text\">Baltimore</div>",
+    "x": 615,
+    "y": 267,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-14 faded-7 stroked-text\">Philadelphia</div>",
+    "x": 656,
+    "y": 226,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-12 faded-6 stroked-text\">New York</div>",
+    "x": 678,
+    "y": 190,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-10 faded-4 stroked-text\">Boston</div>",
+    "x": 684,
+    "y": 138,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-18 faded-9 stroked-text\">Raleigh</div>",
+    "x": 628,
+    "y": 441,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-18 stroked-text\">Atlanta</div>",
+    "x": 336,
+    "y": 775,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-16 faded-9 stroked-text\">Virginia Beach</div>",
+    "x": 609,
+    "y": 354,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"foot-note\">\nWeather data from <a href=\"https://www.ncdc.noaa.gov/cdo-web/datasets\">NOAA</a>\n</div>",
+    "x": 819,
+    "y": 940,
+    "width": 188,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"text stroked-text\">\n<p>\nAnnotating web graphics with HTML is pretty tedious. The best option right now seems to be Adobe Illustrator coupled with <a href=\"http://ai2html.org/\">ai2html</a>. I should probably just bite the bullet and get Adobe Illustrator. In any case, it would be nice to have a free option, so I've cobbled together something that let's you edit HTML annotations in-place. It's rough but it works.\n</p>\n<p>\nHover over any annotation on this map, then click on the edit button that appears (<i class=\"fa fa-pencil-square-o\"></i>). You can then edit the inner HTML in the text box. Drag <i class=\"fa fa-arrows\"></i> to re-position and <i class=\"fa fa-arrows-h\"></i> to change the width. Click <i class=\"fa fa-trash-o\"></i> to delete the annotation. Click <i class=\"fa fa-check\"></i> when you're done editing.\n</p>\n</div>",
+    "x": 720,
+    "y": 584,
+    "width": 220,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"main-text\">\n<p class=\"header\">Summertime Heat</p>\n<p class=\"subheader\">Daily high temperatures, July 22, 2016</p>\n<div class=\"text stroked-text\">\n<p>\nThis July has been brutal here in Washington. I've been stuck indoors and got to thinking about weather data. I found station-level data from <a href=\"https://www.ncdc.noaa.gov/cdo-web/datasets\">NOAA</a> and thought I'd put together a map that shows how hot it got across the eastern US.\n</p>\n<p>\n\n</p>\n</div>\n</div>",
+    "x": 45,
+    "y": 37,
+    "width": 268,
+    "editable": false
+  },
+  {
+    "html": "<div class=\"size-10 faded-6 stroked-text\">Even the motherland is pretty hot</div>",
+    "x": 39,
+    "y": 344,
+    "editable": false,
+    "width": 54
+  },
+  {
+    "html": "<div class=\"size-10 faded-4 stroked-text\">\nLet's move to Maine\n</div>",
+    "x": 635,
+    "y": 68,
+    "editable": false,
+    "width": 61
+  },
+  {
+    "html": "<div class=\"stroked-text\">\n<div class=\"size-16 faded-9\">Daily High Temperature\n</div>\n<div class=\"size-10 faded-7\">Degrees Fahrenheit</div>",
+    "x": 850,
+    "y": 274,
+    "editable": false,
+    "width": 114
+  },
+  {
+    "html": "<div style=\"text-align: center;\">\n<div class=\"size-12 stroked-text\">Mt. Crest, TN</div>\n<div style=\"color: #ccc;\" class=\"size-22\">↓</div>\n</div>",
+    "x": 203,
+    "y": 637,
+    "editable": false
+  },
+  {
+    "html": "<div style=\"text-align:right;\" class=\"stroked-text\">\n<h4 class=\"minor-header\">Bunk observations</h4>\n<p class=\"size-12\">\nIf the station data is to be trusted, the daily high was just 74°F at the Lafayette, TN station and 70°F at the Mt. Crest, TN station. These seem like a bad readings—the high in these areas hovered around 90°F the previous three days.\n</p>\n</div>",
+    "x": 28,
+    "y": 660,
+    "editable": false,
+    "width": 175
+  },
+  {
+    "html": "<div style=\"text-align: center;\">\n<div class=\"size-12 stroked-text\">Lafayette, TN</div>\n<div style=\"color: #ccc;\" class=\"size-22\">↓</div>\n</div>",
+    "x": 151,
+    "y": 592,
+    "editable": false,
+    "width": 76
+  },
+  {
+    "html": "<div class=\"size-12 faded-7 stroked-text\">\n<p>\nArea is partitioned by the nearest observation station (see <a href=\"https://github.com/d3/d3-voronoi\">d3-voronoi</a>).\n</p>\n</div>",
+    "x": 789,
+    "y": 159,
+    "editable": false,
+    "width": 147
+  },
+  {
+    "html": "<div class=\"size-12 faded-9 stroked-text\">\nAlmost 100°F in New York City and its suburbs.\n</div>",
+    "x": 565,
+    "y": 160,
+    "editable": false,
+    "width": 95
+  }
+]
