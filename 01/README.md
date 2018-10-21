@@ -1,4 +1,4 @@
-this iteration updates things and makes the code even nicer to work with
+this iteration updates things and makes the code even nicer to work with. prettier format almost all the things.
 
 ---
 
