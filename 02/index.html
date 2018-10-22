@@ -1,0 +1,24 @@
+<html>
+<head>
+  <link rel='stylesheet' href='fontAwesome.css'>
+  <link rel='stylesheet' href='annotation.css'>
+  <link rel='stylesheet' href='index.css'>
+</head>
+<body>
+  <div class='container'>
+    <canvas></canvas>
+    <svg class='legend' width='150' height='300'></svg>
+    <div class='annotations'></div>
+  </div>
+  <div class='controls'>
+    <button name='button' onclick='handleClickPNG()'>png</button>
+    <!-- <button name='button' onclick='handleClickPDF()'>pdf</button> -->
+  </div>
+  <iframe id="download_iframe" style="display:none;"></iframe>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.0/d3.min.js'></script>
+  <script src='https://d3js.org/topojson.v1.min.js'></script>
+  <script src='https://d3js.org/d3-geo-projection.v1.min.js'></script>
+  <script src='drawAnnotation.js'></script>
+  <script src='index.js'></script>
+</body>
+</html>
