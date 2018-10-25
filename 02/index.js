@@ -156,11 +156,21 @@ function handleClickPNG() {
   download(screenshotServerUrl)
 }
 
-/* implement this next */
-//
-// function handleClickPDF() {
-//   console.log('generating pdf on the server')
-// }
+function handleClickPDF() {
+  console.log('generating pdf on the server')
+  const pageUrl = window.location.toString()
+  const screenshotServerUrl = new URL('https://screenshot.micah.fyi/api/')
+  const params = new URLSearchParams(screenshotServerUrl.search)
+  params.set('url', pageUrl)
+  params.set('id', '6c8d4671-757d-4e23-8b86-d60f2d092e37')
+  params.set('ext', 'pdf')
+  screenshotServerUrl.search = params
+
+  // fetch the pdf from the server
+  // then download the pdf
+  // via the browser's normal download UX
+  download(screenshotServerUrl)
+}
 
 d3.queue()
   .defer(d3.json, 'annotations.json')
