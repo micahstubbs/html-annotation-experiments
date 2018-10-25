@@ -143,10 +143,11 @@ function download(url) {
 function handleClickPNG() {
   console.log('generating png on the server')
   const pageUrl = window.location.toString()
-  const screenshotServerUrl = new URL('https://screenshot.micah.fyi/api/png/')
+  const screenshotServerUrl = new URL('https://screenshot.micah.fyi/api/')
   const params = new URLSearchParams(screenshotServerUrl.search)
   params.set('url', pageUrl)
   params.set('id', '6c8d4671-757d-4e23-8b86-d60f2d092e37')
+  params.set('ext', 'png')
   screenshotServerUrl.search = params
 
   // fetch the image from the server
